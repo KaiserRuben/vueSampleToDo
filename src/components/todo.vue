@@ -64,7 +64,7 @@
 
         },
         mounted() {
-            this.init()
+            // this.init()
         }
         // End of expressJS Workshop part
 
